@@ -25,6 +25,9 @@ This project demonstrates LED blinking control using a push button on the STM32L
 |Resistor | Across button and 3v3|
 | Debounce Capacitor | Across Button |
 
+## Schematic  
+![image](https://github.com/AbhinavDhamne/nosh27/blob/79a491ad34da98991e6e23f4251360ca898e8c46/CIRCUIT%20DIAGRAM.png)
+
 ## Software Implementation
 ### System Configuration
 - The **low power run mode** is enabled using `HAL_PWREx_EnableLowPowerRunMode();` to minimize power consumption.
