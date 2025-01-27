@@ -92,4 +92,10 @@ The original problem statement specified the **NUCLEO-G070RB** board, but due to
 - Add **deeper sleep states** when the LED is OFF.
 - Implement a RTOS based approach , to make the MCU go in sleep during Idle time.
 
+## Reference Documents
+- https://www.st.com/en/microcontrollers-microprocessors/stm32l412kb.html
+- https://www.st.com/resource/en/reference_manual/rm0394-stm32l41xxx42xxx43xxx44xxx45xxx46xxx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+- https://www.st.com/resource/en/user_manual/um1956-stm32-nucleo32-boards-mb1180-stmicroelectronics.pdf
+
 ----
+
