@@ -1,0 +1,5 @@
+state
+delay_ms
+current_time
+prev_blink_time
+curr_time
